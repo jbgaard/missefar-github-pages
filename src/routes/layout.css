@@ -23,7 +23,7 @@ a {
 
 p,
 ul {
-	@apply my-1 text-gray-700 dark:text-gray-300;
+	@apply my-1 text-gray-700;
 }
 
 body {
