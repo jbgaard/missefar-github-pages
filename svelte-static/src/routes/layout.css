@@ -1,3 +1,30 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/forms';
 @plugin '@tailwindcss/typography';
+@reference "tailwindcss";
+
+* {
+	font-family: 'Google Sans', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Gravitas One', monospace;
+}
+
+a {
+	@apply italic underline;
+}
+
+p,
+ul {
+	@apply my-1 text-gray-700 dark:text-gray-300;
+}
+
+body {
+	@apply m-0 min-h-dvh bg-linear-to-br to-orange-200 p-0;
+}
