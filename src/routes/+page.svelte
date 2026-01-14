@@ -1,8 +1,12 @@
+<script lang="ts">
+	import { base } from '$app/paths';
+</script>
+
 <div class="flex items-center justify-center">
 	<main class="m-4 max-w-2xl">
 		<h1 class="my-4 text-6xl font-black">EFTERLYST!</h1>
 
-		<img src="/images/DSC01636.jpg" alt="Vores meget elskede kat" class="max-w-lg" />
+		<img src="{base}/images/DSC01636.jpg" alt="Vores meget elskede kat" class="max-w-lg" />
 
 		<p>Vores søde lille missekat er desværre forsvundet :(</p>
 
@@ -38,58 +42,58 @@
 
 		<div class="grid grid-cols-2 gap-4">
 			<video autoplay loop muted class="h-full w-sm object-cover">
-				<source src="/images/dansemusen.mp4" type="video/mp4" />
+				<source src="{base}/images/dansemusen.mp4" type="video/mp4" />
 				Your browser does not support the video tag.
 			</video>
 			<img
-				src="/images/569945653_877970694820508_2337974435288838911_n.jpg"
+				src="{base}/images/569945653_877970694820508_2337974435288838911_n.jpg"
 				alt="Vores meget elskede kat"
 				class="h-full w-sm object-cover"
 			/>
 			<img
-				src="/images/592052706_889704966963593_483529784538562711_n.jpg"
+				src="{base}/images/592052706_889704966963593_483529784538562711_n.jpg"
 				alt="Vores meget elskede kat"
 				class="h-full w-sm object-cover"
 			/>
 			<img
-				src="/images/611293481_892735893309409_9042629071886184921_n.jpg"
+				src="{base}/images/611293481_892735893309409_9042629071886184921_n.jpg"
 				alt="Vores meget elskede kat"
 				class="h-full w-sm object-cover"
 			/><img
-				src="/images/611624809_2073225910109181_2452048730345598000_n.jpg"
+				src="{base}/images/611624809_2073225910109181_2452048730345598000_n.jpg"
 				alt="Vores meget elskede kat"
 				class="h-full w-sm object-cover"
 			/><img
-				src="/images/612989588_1381715063652524_3401840366704835540_n.jpg"
+				src="{base}/images/612989588_1381715063652524_3401840366704835540_n.jpg"
 				alt="Vores meget elskede kat"
 				class="h-full w-sm object-cover"
 			/><img
-				src="/images/613049142_1535794591059309_8905850359040993510_n.jpg"
+				src="{base}/images/613049142_1535794591059309_8905850359040993510_n.jpg"
 				alt="Vores meget elskede kat"
 				class="h-full w-sm object-cover"
 			/>
 			<img
-				src="/images/614798545_1448836893624982_1944972222820527643_n.jpg"
+				src="{base}/images/614798545_1448836893624982_1944972222820527643_n.jpg"
 				alt="Vores meget elskede kat"
 				class="h-full w-sm object-cover"
 			/>
 			<img
-				src="/images/Snapchat-469831533.jpg"
+				src="{base}/images/Snapchat-469831533.jpg"
 				alt="Vores meget elskede kat"
 				class="h-full w-sm object-cover"
 			/>
 			<img
-				src="/images/DSC01643.jpg"
+				src="{base}/images/DSC01643.jpg"
 				alt="Vores meget elskede kat"
 				class="h-full w-sm object-cover"
 			/>
 			<img
-				src="/images/DSC01644.jpg"
+				src="{base}/images/DSC01644.jpg"
 				alt="Vores meget elskede kat"
 				class="h-full w-sm object-cover"
 			/>
 			<img
-				src="/images/DSC01645.jpg"
+				src="{base}/images/DSC01645.jpg"
 				alt="Vores meget elskede kat"
 				class="h-full w-sm object-cover"
 			/>
