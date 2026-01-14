@@ -12,6 +12,8 @@
 			class="mx-auto w-full max-w-lg rounded-lg shadow-md"
 		/>
 
+		<br />
+
 		<p>Vores søde lille missekat er desværre forsvundet :(</p>
 
 		<ul class="my-2 ml-6 max-w-none list-disc text-sm md:ml-10 md:max-w-md md:text-base">
