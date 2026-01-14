@@ -71,7 +71,7 @@
 				loop
 				muted
 				playsinline
-				class="h-48 w-full rounded object-cover md:h-full"
+				class="h-[450px] w-full rounded object-cover md:h-full"
 				aria-label="Video af missefar der danser"
 			>
 				<source src="{resolve('/')}images/dansemusen.mp4" type="video/mp4" />
@@ -80,54 +80,57 @@
 			<img
 				src="{resolve('/')}images/569945653_877970694820508_2337974435288838911_n.jpg"
 				alt="Vores meget elskede kat"
-				class="h-48 w-full rounded object-cover md:h-full"
+				class="h-64 w-full rounded object-contain md:h-full"
 			/>
 			<img
 				src="{resolve('/')}images/592052706_889704966963593_483529784538562711_n.jpg"
 				alt="Vores meget elskede kat"
-				class="h-48 w-full rounded object-cover md:h-full"
+				class="h-64 w-full rounded object-contain md:h-full"
 			/>
 			<img
 				src="{resolve('/')}images/611293481_892735893309409_9042629071886184921_n.jpg"
 				alt="Vores meget elskede kat"
-				class="h-48 w-full rounded object-cover md:h-full"
-			/><img
+				class="h-64 w-full rounded object-contain md:h-full"
+			/>
+			<img
 				src="{resolve('/')}images/611624809_2073225910109181_2452048730345598000_n.jpg"
 				alt="Vores meget elskede kat"
-				class="h-48 w-full rounded object-cover md:h-full"
-			/><img
+				class="h-64 w-full rounded object-contain md:h-full"
+			/>
+			<img
 				src="{resolve('/')}images/612989588_1381715063652524_3401840366704835540_n.jpg"
 				alt="Vores meget elskede kat"
-				class="h-48 w-full rounded object-cover md:h-full"
-			/><img
+				class="h-64 w-full rounded object-contain md:h-full"
+			/>
+			<img
 				src="{resolve('/')}images/613049142_1535794591059309_8905850359040993510_n.jpg"
 				alt="Vores meget elskede kat"
-				class="h-48 w-full rounded object-cover md:h-full"
+				class="h-64 w-full rounded object-contain md:h-full"
 			/>
 			<img
 				src="{resolve('/')}images/614798545_1448836893624982_1944972222820527643_n.jpg"
 				alt="Vores meget elskede kat"
-				class="h-48 w-full rounded object-cover md:h-full"
+				class="h-64 w-full rounded object-contain md:h-full"
 			/>
 			<img
 				src="{resolve('/')}images/Snapchat-469831533.jpg"
 				alt="Vores meget elskede kat"
-				class="h-48 w-full rounded object-cover md:h-full"
+				class="h-64 w-full rounded object-contain md:h-full"
 			/>
 			<img
 				src="{resolve('/')}images/DSC01643.jpg"
 				alt="Vores meget elskede kat"
-				class="h-48 w-full rounded object-cover md:h-full"
+				class="h-64 w-full rounded object-contain md:h-full"
 			/>
 			<img
 				src="{resolve('/')}images/IMG_20171225_172756.jpg"
 				alt="Vores meget elskede kat"
-				class="h-48 w-full rounded object-cover md:h-full"
+				class="h-64 w-full rounded object-contain md:h-full"
 			/>
 			<img
 				src="{resolve('/')}images/DSC01645.jpg"
 				alt="Vores meget elskede kat"
-				class="h-48 w-full rounded object-cover md:h-full"
+				class="h-64 w-full rounded object-contain md:h-full"
 			/>
 		</div>
 	</main>
